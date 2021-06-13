@@ -1,5 +1,7 @@
 # Moggiez Design
 
+Repository containing design documents about the project.
+
 ## Architecture
 
 ### High level architecture
@@ -7,6 +9,14 @@
 - Diagram (single-region)
 
 ![high level architecture](high-level-architecture.png "High level architecture diagram")
+
+- APIs General diagram
+
+![CRUD APIs](moggies-apis-general.png "CRUD APIs general diagram")
+
+- Load Generation diagram
+
+![Load Generation](moggies-load-generation.png "Load Generation diagram")
 
 - Breakdown
   - Driver triggers load testing events
